@@ -1,0 +1,15 @@
+﻿  cameraclass.cpp
+  d3dclass.cpp
+  graphicsclass.cpp
+C:\Users\sports\Documents\Visual Studio 2019\Projects\DirectX 11\Tutorial 10 Specular Lighting\Specular Lighting\source\graphicsclass.cpp(33,24): warning C4316:  'D3DClass': object allocated on the heap may not be aligned 16
+  inputclass.cpp
+  lightclass.cpp
+  lightshaderclass.cpp
+  main.cpp
+  modelclass.cpp
+  systemclass.cpp
+  textureclass.cpp
+  Generating Code...
+C:\Users\sports\Documents\Visual Studio 2019\Projects\DirectX 11\Tutorial 10 Specular Lighting\Specular Lighting\source\graphicsclass.cpp(48,30): warning C4316:  'CameraClass': object allocated on the heap may not be aligned 16
+C:\Users\sports\Documents\Visual Studio 2019\Projects\DirectX 11\Tutorial 10 Specular Lighting\Specular Lighting\source\graphicsclass.cpp(48,30): warning C4316: C:\Users\sports\Documents\Visual Studio 2019\Projects\DirectX 11\Tutorial 10 Specular Lighting\Specular Lighting\source\cameraclass.cpp(65) : error C4700: uninitialized local variable 'position' used
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.
